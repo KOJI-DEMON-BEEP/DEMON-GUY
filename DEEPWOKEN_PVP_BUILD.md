@@ -152,7 +152,7 @@ Slots: 3 Combat + 2 from Soulbreaker, 1 Support, 1 Mobility, and 3 Wildcard (bas
 | Slot | Mantra | Notes |
 |---|---|---|
 | Combat | **Rising Thunder** (3★) | Launcher; 60 base at L5. Your main finisher. |
-| Combat | **Thunder Kick** (1★) | Gains its special Level 5 effect at 80 LTN. Pure thunder damage and a new animation since Jan 2026; new visual effects on Sept 28. |
+| Combat | **Thunder Kick** (1★) | Gains its special Level 5 effect at 80 LTN. Pure thunder damage since Jan 2026; new animation and VFX on Sept 28, 2026. |
 | Combat | **Jolt Grab** | Grab. **Magnet Spark** variant: no lunge, AoE around you, shorter windup, teleports to the target. |
 | Combat | **Rhythm Advance** (Oath) | ~61 damage, **i-frames for the whole move**, AoE. An M1 right after it hits with no windup. |
 | Combat | **Ardour Slicer** (Oath) | Long-range projectile with 40% chip. Use it to poke and to punish runners. |
